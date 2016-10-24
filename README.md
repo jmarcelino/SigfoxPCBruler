@@ -10,4 +10,4 @@ For this version we also replaced some lesser used footprints with others useful
 * [OnSemi AX-SF SoC](http://www.onsemi.com/PowerSolutions/product.do?id=AX-SFEU%20MODULES) 
 * [ProAnt OnBoard™ SMD 868/915 Antenna](http://www.proant.se/en/catalogue/internal-antennas/--onboard-smd-antenna/onboard-smd-868915-antenna-pid55.htm)  
  
-
+Gerbers suitable for manufacturing and an Altium PCB Library with all the components is also provided.
