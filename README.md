@@ -1,6 +1,6 @@
 # PCB Ruler with Sigfox components
 
-This design is an port of [Adafruit's PCB ruler](Designed by Frank Zhao for Adafruit Industries) to Altium Designer - also compatible with Circuit Maker and Circuit Studio.
+This design is a port of [Adafruit's PCB ruler](Designed by Frank Zhao for Adafruit Industries) to Altium Designer - also compatible with Circuit Maker and Circuit Studio.
 
 For this version we also replaced some lesser used footprints with others useful for Sigfox design, namely:
 
